@@ -1,2 +1,1 @@
-# namecard
-NameCard
+# digital-namecard
